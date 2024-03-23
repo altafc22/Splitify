@@ -3,7 +3,6 @@ This repository contains a Assignment project made in Kotlin using AndroidX, MVV
 
 ## Images
 <div style="display: flex; justify-content: space-between;">
-https://github.com/altafc22/Splitify/tree/main/images
     <img src="https://github.com/altafc22/Splitify/blob/main/images/image1.png" alt="Home Page" width="200">
     <img src="https://github.com/altafc22/Splitify/blob/main/images/image2.png" alt="Add Expense" width="200">
     <img src="https://github.com/altafc22/Splitify/blob/main/images/image3.png" alt="History" width="200">
