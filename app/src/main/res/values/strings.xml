@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Splitfy</string>
+    <string name="expense_history">Expense History</string>
+    <string name="home">Home</string>
+    <string name="price">Price:</string>
+    <string name="paid_by">Paid By:</string>
+    <string name="monthly_expense_tracker">Monthly Expense Tracker</string>
+    <string name="spent_this_month">Spent this month</string>
+    <string name="spent_by">Spent By</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="item_name">Item Name</string>
+</resources>
