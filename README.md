@@ -8,6 +8,11 @@ This repository contains a Assignment project made in Kotlin using AndroidX, MVV
     <img src="https://github.com/altafc22/Splitify/blob/main/images/image3.png" alt="History" width="200">
 </div>
 
+## Download APK
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/altafc22/Splitify/blob/main/apk/app-debug.apk">Download App</a>
+</div>
+
 
 ## The app has the following base packages:
 
